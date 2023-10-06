@@ -1,5 +1,5 @@
-portaudio-playground
-====================
+darknet-playground
+==================
 
 ### Using
-- [dirkarnez/portaudio-prebuilt](https://github.com/dirkarnez/portaudio-prebuilt)
+- [dirkarnez/darknet-prebuilt](https://github.com/dirkarnez/darknet-prebuilt)
